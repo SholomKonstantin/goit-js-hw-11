@@ -6,4 +6,4 @@ import{S as p,i as g}from"./vendor-46aac873.js";(function(){const t=document.cre
             <span class="img-stat-item"><span class="img-stat-title">Downloads</span><span class="img-stat-val">${r.downloads}</span></span>
             </span>
             </a>`).join("");l(!1),u.insertAdjacentHTML("beforeend",t),v.refresh()}function l(s=!0){b.style.display=s?"inline-block":"none",h.disabled=s}function o(s){g.show({position:"topCenter",iconUrl:f,messageColor:"#FAFAFB",messageSize:"16px",backgroundColor:"#EF4040",close:!1,closeOnClick:!0,message:s})}
-//# sourceMappingURL=gallery-063b2eb2.js.map
+//# sourceMappingURL=main-c1bb66e8.js.map
